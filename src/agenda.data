@@ -1,0 +1,12 @@
+{collection:"User",total:7}
+{name:"YUI",password:"lyAA",email:"123@e.com",phone:"123456"}
+{name:"MIO",password:"lyBB",email:"123@e.com",phone:"123456"}
+{name:"AZU",password:"lyQWERTY",email:"123@e.com",phone:"123456"}
+{name:"KON",password:"lyXXXXXX",email:"NULL",phone:"123456"}
+{name:"K-ON",password:"lyXXXXXX",email:"NULL",phone:"123456"}
+{name:"233",password:"ly",email:"ly",phone:"ly"}
+{name:"laiyuan",password:"233",email:"233",phone:"233"}
+{collection:"Meeting",total:3}
+{sponsor:"AZU",participator:"MIO",sdate:"2014-06-07/00:00",edate:"2014-07-07/00:00",title:"summer"}
+{sponsor:"MIO",participator:"YUI",sdate:"2014-06-01/00:00",edate:"2014-06-05/00:00",title:"exam"}
+{sponsor:"laiyuan",participator:"YUI",sdate:"1111-11-11/11:11",edate:"1111-11-12/11:11",title:"tt1"}
